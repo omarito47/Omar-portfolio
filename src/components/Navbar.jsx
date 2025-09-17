@@ -4,10 +4,12 @@ const links = [
   { name: "Home", id: "hero" },
   { name: "About", id: "about" },
   { name: "Skills", id: "skills" },
+   { name: "Frameworks", id: "frameworks" },
+  { name: "Side Projects", id: "sideprojects" },
   { name: "Experience", id: "experience" },
   { name: "Education", id: "education" },
   { name: "Contact", id: "contact" },
-  { name: "Frameworks", id: "frameworks" },
+ 
 
 ];
 
